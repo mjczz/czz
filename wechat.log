@@ -1,0 +1,1312 @@
+[2018-08-21 13:44:41] NULL.DEBUG: Request received: {"method":"GET","uri":"http://958bfae0.ngrok.io/?echostr=1712108960837746638&nonce=2113741626&signature=e0dffb351e273e52293e05e148a4dc14f79d9fca&timestamp=1534859078","content-type":null,"content":""} 
+[2018-08-21 13:44:41] NULL.DEBUG: Server response created: {"content":"1712108960837746638"} 
+[2018-08-21 13:45:49] NULL.DEBUG: Request received: {"method":"GET","uri":"http://czz.com/?XDEBUG_SESSION_START=11558","content-type":null,"content":""} 
+[2018-08-21 13:45:49] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:45:59] NULL.DEBUG: Request received: {"method":"GET","uri":"http://czz.com/?XDEBUG_SESSION_START=11558","content-type":null,"content":""} 
+[2018-08-21 13:45:59] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:46:30] NULL.DEBUG: Request received: {"method":"GET","uri":"http://czz.com/?XDEBUG_SESSION_START=11558","content-type":null,"content":""} 
+[2018-08-21 13:46:30] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:47:18] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1090906324&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=09b44fb594e643241257f0ef13ef36896c92175b&timestamp=1534859235","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859235</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>"} 
+[2018-08-21 13:47:18] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:47:19] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=874233993&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=cfd22110e8ff6dc384feecb621e0422f368b36da&timestamp=1534859236","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859236</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172903</Latitude>
+<Longitude>120.159431</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 13:47:19] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:47:20] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=2115241660&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=1935ee7547048f9a8665b76fad48259fc2256b3c&timestamp=1534859237","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859237</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+<MenuId>492715025</MenuId>
+</xml>"} 
+[2018-08-21 13:47:20] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:47:25] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1685810759&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=338c8a0e55caea3ae3fd06028abd106278c949c6&timestamp=1534859242","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859242</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172903</Latitude>
+<Longitude>120.159431</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 13:47:25] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:47:28] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=2007388037&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=079ea51edbc8a42755f91233bba03b58b819bb8e&timestamp=1534859246","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859245</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6592170261732301564</MsgId>
+</xml>"} 
+[2018-08-21 13:47:28] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:48:01] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=207174088&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=634bd99b17972d1b646159f21390b9b3a7e4d24a&timestamp=1534859279","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859278</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6592170403466222340</MsgId>
+</xml>"} 
+[2018-08-21 13:48:01] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:48:07] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1994846528&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=5a6eeaf54877b7b2f2d24e59abf8967ab6124571&timestamp=1534859284","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859284</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[111]]></Content>
+<MsgId>6592170429236026118</MsgId>
+</xml>"} 
+[2018-08-21 13:48:07] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:48:08] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=2063277940&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=8727c0af56656dc4c2745977e0c82a149e5b76a6&timestamp=1534859286","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859285</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[111]]></Content>
+<MsgId>6592170433530993415</MsgId>
+</xml>"} 
+[2018-08-21 13:48:08] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:48:19] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1739719884&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=c8294b279397585d5824f18d7624155d8279f76e&timestamp=1534859297","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859296</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[41]]></Content>
+<MsgId>6592170480775633672</MsgId>
+</xml>"} 
+[2018-08-21 13:48:19] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:48:23] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1049572994&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=d491542fb0dd92f8d1225d7c8b86b1602baf1dd5&timestamp=1534859301","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859300</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1515]]></Content>
+<MsgId>6592170497955502858</MsgId>
+</xml>"} 
+[2018-08-21 13:48:23] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:48:25] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1408474234&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=5d8b511e08646a9c2c48c5b407860ab550dda5c2&timestamp=1534859303","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859303</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[4515]]></Content>
+<MsgId>6592170510840404747</MsgId>
+</xml>"} 
+[2018-08-21 13:48:25] NULL.DEBUG: Server response created: {"content":"success"} 
+[2018-08-21 13:48:57] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=111769533&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=38d7c007b6ac57374dcb962e3e17b62e8e67cf80&timestamp=1534859335","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859335</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>"} 
+[2018-08-21 13:48:57] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534859337</CreateTime></xml>"} 
+[2018-08-21 13:49:10] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=65813066&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=dbfad0e26bd09de03fbfdcf57d147b9f4c556bcf&timestamp=1534859348","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859347</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[11]]></Content>
+<MsgId>6592170699818965777</MsgId>
+</xml>"} 
+[2018-08-21 13:49:10] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534859350</CreateTime></xml>"} 
+[2018-08-21 13:52:05] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=681817352&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=77ef7b37c0d504172c9d3be893576b3e741943c8&timestamp=1534859522","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859522</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172899</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 13:52:05] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534859525</CreateTime></xml>"} 
+[2018-08-21 13:52:14] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1458778252&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=5222ba63f5fa7f3243a6a15f086aa596f49714c1&timestamp=1534859531","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859531</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172899</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 13:52:14] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534859534</CreateTime></xml>"} 
+[2018-08-21 13:52:26] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=453143653&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=76bc5ec45e0a6d84dd6de1457c992e362d4fd6b0&timestamp=1534859543","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534859543</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 13:52:26] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！欢迎使用 EasyWeChat!]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534859546</CreateTime></xml>"} 
+[2018-08-21 14:00:28] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1711266187&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=d987a2a9c8d840fd2683eedb10b0093d98b6e507&timestamp=1534860025","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860025</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1]]></Content>
+<MsgId>6592173611806792587</MsgId>
+</xml>"} 
+[2018-08-21 14:00:28] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！ownapw_I26e1Ka5JsEPDW0t5CGt0欢迎使用 EasyWeChat!-text]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860028</CreateTime></xml>"} 
+[2018-08-21 14:02:43] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=737623838&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=5eea5d2771803609577163c27e70e5783f487d37&timestamp=1534860160","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860160</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[1212]]></Content>
+<MsgId>6592174191627377570</MsgId>
+</xml>"} 
+[2018-08-21 14:02:43] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！ownapw_I26e1Ka5JsEPDW0t5CGt0欢迎使用 EasyWeChat!-text]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860163</CreateTime></xml>"} 
+[2018-08-21 14:02:50] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1018852353&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=82a76f1a8345a53924043d6d6636870750a514fb&timestamp=1534860167","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860167</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[12]]></Content>
+<MsgId>6592174221692148644</MsgId>
+</xml>"} 
+[2018-08-21 14:02:50] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！ownapw_I26e1Ka5JsEPDW0t5CGt0欢迎使用 EasyWeChat!-text]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860170</CreateTime></xml>"} 
+[2018-08-21 14:02:50] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=790673888&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=fb4c790611538ae2dde67e292f861d17f799876b&timestamp=1534860167","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860167</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[232]]></Content>
+<MsgId>6592174221692148645</MsgId>
+</xml>"} 
+[2018-08-21 14:02:50] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！ownapw_I26e1Ka5JsEPDW0t5CGt0欢迎使用 EasyWeChat!-text]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860170</CreateTime></xml>"} 
+[2018-08-21 14:02:51] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=499197443&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=71a4ee6ebf6843e474a0e40f295ce5eefdf59797&timestamp=1534860168","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860167</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[23]]></Content>
+<MsgId>6592174221692148646</MsgId>
+</xml>"} 
+[2018-08-21 14:02:51] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！ownapw_I26e1Ka5JsEPDW0t5CGt0欢迎使用 EasyWeChat!-text]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860171</CreateTime></xml>"} 
+[2018-08-21 14:02:51] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1989570295&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=c562b6ea48f24101315e8359318b3d88cdbb61ef&timestamp=1534860168","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860168</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[232]]></Content>
+<MsgId>6592174225987115944</MsgId>
+</xml>"} 
+[2018-08-21 14:02:51] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！ownapw_I26e1Ka5JsEPDW0t5CGt0欢迎使用 EasyWeChat!-text]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860171</CreateTime></xml>"} 
+[2018-08-21 14:02:52] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=8793343&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=9ed4c3f2990b53b2f045888a2d9aef59bbbecaa3&timestamp=1534860169","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860169</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[32]]></Content>
+<MsgId>6592174230282083243</MsgId>
+</xml>"} 
+[2018-08-21 14:02:52] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！ownapw_I26e1Ka5JsEPDW0t5CGt0欢迎使用 EasyWeChat!-text]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860172</CreateTime></xml>"} 
+[2018-08-21 14:03:08] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1537057256&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=e7545116c15ccbe0d35f77996863c561a24b827d&timestamp=1534860185","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860185</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[32232]]></Content>
+<MsgId>6592174299001559983</MsgId>
+</xml>"} 
+[2018-08-21 14:03:08] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！ownapw_I26e1Ka5JsEPDW0t5CGt0欢迎使用 EasyWeChat!-text32232]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860188</CreateTime></xml>"} 
+[2018-08-21 14:03:09] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=155684239&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=583b6c78542d9ddbdea0b3bacc1bbe9437339269&timestamp=1534860187","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860187</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[42]]></Content>
+<MsgId>6592174307591494577</MsgId>
+</xml>"} 
+[2018-08-21 14:03:09] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[您好！ownapw_I26e1Ka5JsEPDW0t5CGt0欢迎使用 EasyWeChat!-text42]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860189</CreateTime></xml>"} 
+[2018-08-21 14:04:39] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1825386472&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=7d9c7820a00124e8830d8288d0b3d09c80f4bff4&timestamp=1534860277","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860277</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[12]]></Content>
+<MsgId>6592174694138551228</MsgId>
+</xml>"} 
+[2018-08-21 14:04:39] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到文字消息]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860279</CreateTime></xml>"} 
+[2018-08-21 14:07:10] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1161076808&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=378a2ca06ab55241172afefbc2cebefa817e6ee8&timestamp=1534860427","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860427</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[2]]></Content>
+<MsgId>6592175338383645650</MsgId>
+</xml>"} 
+[2018-08-21 14:07:10] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到文字消息:2]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860430</CreateTime></xml>"} 
+[2018-08-21 14:07:22] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1814448524&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=11a7ba8918e670522fbee90109e9eae665b43ae6&timestamp=1534860439","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860438</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/ic5CRZ8Lb68TYKVemya7vUlAO0jmPg113aIxQJzDqgoCVaXda72JwddmvH4pnefickA5Vs2PeL8827tMo0C8bw3w/0]]></PicUrl>
+<MsgId>6592175385628285909</MsgId>
+<MediaId><![CDATA[yVQ7_T0UO7FcyDK8Y15YeJxYEMEftgC-heItIy7EaUqG-kYi1WwHDSDKFIoBKS8S]]></MediaId>
+</xml>"} 
+[2018-08-21 14:07:22] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到图片消息yVQ7_T0UO7FcyDK8Y15YeJxYEMEftgC-heItIy7EaUqG-kYi1WwHDSDKFIoBKS8S]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860442</CreateTime></xml>"} 
+[2018-08-21 14:07:45] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=838472965&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=b22ad669e0d1a7d461bbe4a0f2bbcb45f5d06df6&timestamp=1534860462","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860462</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/ic5CRZ8Lb68TYKVemya7vUlAO0jmPg113qU6TSRg8jHtibf7UY2qhzfBGMOJ15JzYkJdSbiccXCXrJhMC2hLgZOsw/0]]></PicUrl>
+<MsgId>6592175488707501017</MsgId>
+<MediaId><![CDATA[Nlj1-p4DrOv4XJYQp77XDIh3cO0cR6v-l4kxVMSD0zklBLNR4GxX9c2j1Cf2u1fa]]></MediaId>
+</xml>"} 
+[2018-08-21 14:07:45] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到图片消息Nlj1-p4DrOv4XJYQp77XDIh3cO0cR6v-l4kxVMSD0zklBLNR4GxX9c2j1Cf2u1fahttp://mmbiz.qpic.cn/mmbiz_jpg/ic5CRZ8Lb68TYKVemya7vUlAO0jmPg113qU6TSRg8jHtibf7UY2qhzfBGMOJ15JzYkJdSbiccXCXrJhMC2hLgZOsw/0]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860465</CreateTime></xml>"} 
+[2018-08-21 14:08:19] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=889832986&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=32bde6aa8e3f3a2715bafe6250ac253d4477cd3e&timestamp=1534860496","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860496</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 14:08:19] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到事件消息]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860499</CreateTime></xml>"} 
+[2018-08-21 14:08:24] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=211805881&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=c9319cdf8125050283fd5fb1d8284d16ee9fe4f2&timestamp=1534860501","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860501</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[IcywOfPKAzLyN-hHJey_LUVdLZX1m_BmyZjYe4AWXGZuCNY0wiJulirqS3uOnFEL]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>6592175655717175296</MsgId>
+<Recognition><![CDATA[]]></Recognition>
+</xml>"} 
+[2018-08-21 14:08:24] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到语音消息]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860504</CreateTime></xml>"} 
+[2018-08-21 14:09:16] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1962214070&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=15d4983140af14772210bac888033dd1af95b97c&timestamp=1534860553","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860553</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 14:09:16] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到事件消息]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860556</CreateTime></xml>"} 
+[2018-08-21 14:09:23] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1954443214&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=90d67c69ee12d65912e811d7b5bd8347fa727435&timestamp=1534860560","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860559</CreateTime>
+<MsgType><![CDATA[location]]></MsgType>
+<Location_X>30.170563</Location_X>
+<Location_Y>120.164085</Location_Y>
+<Scale>16</Scale>
+<Label><![CDATA[东冠社区(杭州市滨江区东冠路558号)]]></Label>
+<MsgId>6592175905319328751</MsgId>
+</xml>"} 
+[2018-08-21 14:09:23] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到坐标消息]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860563</CreateTime></xml>"} 
+[2018-08-21 14:09:23] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1611770724&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=187d747787ecbbda5199f3a620c25cf16953c5a4&timestamp=1534860560","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860560</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 14:09:23] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到事件消息]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860563</CreateTime></xml>"} 
+[2018-08-21 14:11:51] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=729326232&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=da6c39fc094684b61446104edc6408524ed782e2&timestamp=1534860708","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860708</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【收到不支持的消息类型，暂无法显示】]]></Content>
+<MsgId>6592176545269455876</MsgId>
+</xml>"} 
+[2018-08-21 14:11:51] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到文字消息:【收到不支持的消息类型，暂无法显示】]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860711</CreateTime></xml>"} 
+[2018-08-21 14:11:59] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=2002052690&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=e3599b6aa07ac566ea4b2a5d090d11cdd062ad10&timestamp=1534860716","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860716</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 14:11:59] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[image]]></MsgType><Image><MediaId><![CDATA[Nlj1-p4DrOv4XJYQp77XDIh3cO0cR6v-l4kxVMSD0zklBLNR4GxX9c2j1Cf2u1fa]]></MediaId></Image><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860719</CreateTime></xml>"} 
+[2018-08-21 14:12:04] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1542782113&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=1c38f73f9fc73acf3f62bbeb44b4faaaa38998ed&timestamp=1534860721","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860721</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[BvZwXYuCs5MiDZZjgLX_XnMfDjs6yj8lNBVB8FSseMsfIZZrWTwrrt9UJsScYkRb]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>6592176600609980416</MsgId>
+<Recognition><![CDATA[]]></Recognition>
+</xml>"} 
+[2018-08-21 14:12:04] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到语音消息]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860724</CreateTime></xml>"} 
+[2018-08-21 14:12:07] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1602301736&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=5e60023454907b2c43a5b82086db84ef175a1891&timestamp=1534860724","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860724</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 14:12:07] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[image]]></MsgType><Image><MediaId><![CDATA[Nlj1-p4DrOv4XJYQp77XDIh3cO0cR6v-l4kxVMSD0zklBLNR4GxX9c2j1Cf2u1fa]]></MediaId></Image><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860727</CreateTime></xml>"} 
+[2018-08-21 14:12:13] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=455905734&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=ce486cdaf42bf5d32619e7e127abca94a9a34518&timestamp=1534860730","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860730</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[http:www.baidu.com]]></EventKey>
+</xml>"} 
+[2018-08-21 14:12:13] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[image]]></MsgType><Image><MediaId><![CDATA[Nlj1-p4DrOv4XJYQp77XDIh3cO0cR6v-l4kxVMSD0zklBLNR4GxX9c2j1Cf2u1fa]]></MediaId></Image><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860733</CreateTime></xml>"} 
+[2018-08-21 14:12:20] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1677036250&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=a0539db99df5e730a11e7fa646cb69e1bca1be48&timestamp=1534860737","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860737</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 14:12:20] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[image]]></MsgType><Image><MediaId><![CDATA[Nlj1-p4DrOv4XJYQp77XDIh3cO0cR6v-l4kxVMSD0zklBLNR4GxX9c2j1Cf2u1fa]]></MediaId></Image><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860740</CreateTime></xml>"} 
+[2018-08-21 14:13:54] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1581112468&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=618897465f5b231025f7ada36b2ed29f72b9cae3&timestamp=1534860831","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860831</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[232]]></Content>
+<MsgId>6592177073550433303</MsgId>
+</xml>"} 
+[2018-08-21 14:13:54] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到文字消息:232]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860834</CreateTime></xml>"} 
+[2018-08-21 14:14:08] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1958829417&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=e5551cc3954ce2d21d34e421ed3fba2b8df0fcbb&timestamp=1534860845","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860845</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[【收到不支持的消息类型，暂无法显示】]]></Content>
+<MsgId>6592177133679975452</MsgId>
+</xml>"} 
+[2018-08-21 14:14:08] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到文字消息:【收到不支持的消息类型，暂无法显示】]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860848</CreateTime></xml>"} 
+[2018-08-21 14:14:14] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1812373899&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=120894fc90c510aa15bc3475a228a18076d04364&timestamp=1534860851","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860850</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz_jpg/ic5CRZ8Lb68TYKVemya7vUlAO0jmPg113n6nBhw01dUqE6Z6aeQ5QpGRl7SVuguRJwnNxZmuA4Ribia0JVbgDvnmg/0]]></PicUrl>
+<MsgId>6592177155154811934</MsgId>
+<MediaId><![CDATA[NTHi4P77HgCDkCQLwqQQT5oX1Ddg3EbILCBhUw8AxSBjt2FVdo_jkbd5W3OQGPbu]]></MediaId>
+</xml>"} 
+[2018-08-21 14:14:14] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到图片消息NTHi4P77HgCDkCQLwqQQT5oX1Ddg3EbILCBhUw8AxSBjt2FVdo_jkbd5W3OQGPbuhttp://mmbiz.qpic.cn/mmbiz_jpg/ic5CRZ8Lb68TYKVemya7vUlAO0jmPg113n6nBhw01dUqE6Z6aeQ5QpGRl7SVuguRJwnNxZmuA4Ribia0JVbgDvnmg/0]]></Content><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860854</CreateTime></xml>"} 
+[2018-08-21 14:14:27] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=827451322&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=84efd7d78650df29ab43bdbafbfe3aaa9c474635&timestamp=1534860864","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860864</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 14:14:27] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[image]]></MsgType><Image><MediaId><![CDATA[Nlj1-p4DrOv4XJYQp77XDIh3cO0cR6v-l4kxVMSD0zklBLNR4GxX9c2j1Cf2u1fa]]></MediaId></Image><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860867</CreateTime></xml>"} 
+[2018-08-21 14:14:32] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=968096212&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=1c4dd1d88f643b36e8b5cf432ecae582fcb17dbd&timestamp=1534860869","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860869</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 14:14:32] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[image]]></MsgType><Image><MediaId><![CDATA[Nlj1-p4DrOv4XJYQp77XDIh3cO0cR6v-l4kxVMSD0zklBLNR4GxX9c2j1Cf2u1fa]]></MediaId></Image><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860872</CreateTime></xml>"} 
+[2018-08-21 14:14:40] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=677181453&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=d8e998e9e8e4d00f22f9c2f14169ed07a6270b30&timestamp=1534860878","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534860878</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[LOCATION]]></Event>
+<Latitude>30.172897</Latitude>
+<Longitude>120.159409</Longitude>
+<Precision>30.000000</Precision>
+</xml>"} 
+[2018-08-21 14:14:40] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[image]]></MsgType><Image><MediaId><![CDATA[Nlj1-p4DrOv4XJYQp77XDIh3cO0cR6v-l4kxVMSD0zklBLNR4GxX9c2j1Cf2u1fa]]></MediaId></Image><ToUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></ToUserName><FromUserName><![CDATA[gh_153cfb620e99]]></FromUserName><CreateTime>1534860880</CreateTime></xml>"} 
+[2018-08-21 14:15:18] NULL.DEBUG: Request received: {"method":"GET","uri":"http://czz.com/?XDEBUG_SESSION_START=11558","content-type":null,"content":""} 
+[2018-08-21 14:15:18] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到其它消息]]></Content><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><CreateTime>1534860918</CreateTime></xml>"} 
+[2018-08-21 14:15:22] NULL.DEBUG: Request received: {"method":"GET","uri":"http://958bfae0.ngrok.io/","content-type":null,"content":""} 
+[2018-08-21 14:15:22] NULL.DEBUG: Server response created: {"content":"<xml><MsgType><![CDATA[text]]></MsgType><Content><![CDATA[收到其它消息]]></Content><ToUserName><![CDATA[]]></ToUserName><FromUserName><![CDATA[]]></FromUserName><CreateTime>1534860922</CreateTime></xml>"} 
+[2018-08-21 14:18:14] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=1861458550&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=e7b609457ad9956d51419af1b9749bae80545ece&timestamp=1534861091","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534861091</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[12312]]></Content>
+<MsgId>6592178190241930319</MsgId>
+</xml>"} 
+[2018-08-21 14:18:30] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=888163954&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=4a48e1b23f584ef87d37216369392d3350715936&timestamp=1534861107","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534861107</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[312]]></Content>
+<MsgId>6592178258961407060</MsgId>
+</xml>"} 
+[2018-08-21 14:19:03] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=380356486&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=4328fd11d1c0f45b8135605ad6fc548e232d4040&timestamp=1534861140","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534861139</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[23]]></Content>
+<MsgId>6592178396400360537</MsgId>
+</xml>"} 
+[2018-08-21 14:20:22] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=136662514&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=2e9125ab15ec23608c9c2a667bb129e65b39b2f7&timestamp=1534861219","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534861218</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[234]]></Content>
+<MsgId>6592178735702776928</MsgId>
+</xml>"} 
+[2018-08-21 14:20:25] NULL.DEBUG: Request received: {"method":"POST","uri":"http://958bfae0.ngrok.io/?nonce=938587650&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&signature=4f152183e7d197a6d18ed769c57435eac6807b62&timestamp=1534861222","content-type":"xml","content":"<xml><ToUserName><![CDATA[gh_153cfb620e99]]></ToUserName>
+<FromUserName><![CDATA[ownapw_I26e1Ka5JsEPDW0t5CGt0]]></FromUserName>
+<CreateTime>1534861222</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[3242]]></Content>
+<MsgId>6592178752882646114</MsgId>
+</xml>"} 
+[2018-08-21 14:20:58] NULL.INFO: >>>>>>>>
+GET /cgi-bin/menu/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:20:56 GMT
+Content-Length: 215
+
+{"menu":{"button":[{"name":"曹哥哥","sub_button":[{"type":"click","name":"czz","key":"http:www.baidu.com","sub_button":[]}]},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com","sub_button":[]}]}}
+--------
+NULL  
+[2018-08-21 14:21:20] NULL.INFO: >>>>>>>>
+GET /cgi-bin/menu/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:21:17 GMT
+Content-Length: 215
+
+{"menu":{"button":[{"name":"曹哥哥","sub_button":[{"type":"click","name":"czz","key":"http:www.baidu.com","sub_button":[]}]},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com","sub_button":[]}]}}
+--------
+NULL  
+[2018-08-21 14:21:20] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:21:18 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 14:21:27] NULL.INFO: >>>>>>>>
+GET /cgi-bin/menu/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:21:25 GMT
+Content-Length: 215
+
+{"menu":{"button":[{"name":"曹哥哥","sub_button":[{"type":"click","name":"czz","key":"http:www.baidu.com","sub_button":[]}]},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com","sub_button":[]}]}}
+--------
+NULL  
+[2018-08-21 14:21:28] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:21:26 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 14:21:46] NULL.INFO: >>>>>>>>
+GET /cgi-bin/menu/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:21:44 GMT
+Content-Length: 215
+
+{"menu":{"button":[{"name":"曹哥哥","sub_button":[{"type":"click","name":"czz","key":"http:www.baidu.com","sub_button":[]}]},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com","sub_button":[]}]}}
+--------
+NULL  
+[2018-08-21 14:21:57] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:21:55 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 14:36:51] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:36:48 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 14:37:14] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:37:12 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 14:41:52] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:41:50 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 14:42:35] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 14:42:33 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 15:14:22] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:14:20 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 15:14:24] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:14:22 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 15:14:27] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:14:25 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 15:14:55] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:14:53 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 15:15:18] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:15:16 GMT
+Content-Length: 218
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"name":"曹哥哥","sub_button":{"list":[{"type":"click","name":"czz","key":"http:www.baidu.com"}]}},{"type":"view","name":"盼子成龙","url":"http:\/\/www.baidu.com"}]}}
+--------
+NULL  
+[2018-08-21 15:15:18] NULL.INFO: >>>>>>>>
+POST /cgi-bin/menu/create?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 295
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+Content-Type: application/json
+
+{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}]}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:15:16 GMT
+Content-Length: 27
+
+{"errcode":0,"errmsg":"ok"}
+--------
+NULL  
+[2018-08-21 15:15:33] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:15:31 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:15:33] NULL.INFO: >>>>>>>>
+POST /cgi-bin/menu/create?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 295
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+Content-Type: application/json
+
+{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}]}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:15:31 GMT
+Content-Length: 27
+
+{"errcode":0,"errmsg":"ok"}
+--------
+NULL  
+[2018-08-21 15:15:40] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:15:38 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:00] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:15:58 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:17] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:15 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:18] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:16 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:25] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:23 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:33] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:31 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:36] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:34 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:40] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:38 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:42] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:40 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:43] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:41 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:47] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:45 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:47] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:45 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:50] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:48 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:53] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:51 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:16:54] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:16:51 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:17:20] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:17:17 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:17:29] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:17:27 GMT
+Content-Length: 339
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"今日歌曲","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:17:30] NULL.INFO: >>>>>>>>
+POST /cgi-bin/menu/create?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 310
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+Content-Type: application/json
+
+{"button":[{"type":"click","name":"我爱音乐，音乐爱我","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}]}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:17:28 GMT
+Content-Length: 27
+
+{"errcode":0,"errmsg":"ok"}
+--------
+NULL  
+[2018-08-21 15:17:32] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:17:30 GMT
+Content-Length: 354
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"我爱音乐，音乐爱我","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:17:32] NULL.INFO: >>>>>>>>
+POST /cgi-bin/menu/create?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 310
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+Content-Type: application/json
+
+{"button":[{"type":"click","name":"我爱音乐，音乐爱我","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}]}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:17:30 GMT
+Content-Length: 27
+
+{"errcode":0,"errmsg":"ok"}
+--------
+NULL  
+[2018-08-21 15:19:46] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:19:43 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:20:15] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:20:13 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:20:21] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:20:19 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:20:49] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:20:46 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:20:56] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:20:54 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:21:19] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:21:17 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:21:19] NULL.INFO: >>>>>>>>
+GET /cgi-bin/get_current_selfmenu_info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:21:17 GMT
+Content-Length: 354
+
+{"is_menu_open":1,"selfmenu_info":{"button":[{"type":"click","name":"我爱音乐，音乐爱我","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":{"list":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}}]}}
+--------
+NULL  
+[2018-08-21 15:21:19] NULL.INFO: >>>>>>>>
+POST /cgi-bin/menu/create?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+Content-Length: 310
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+Content-Type: application/json
+
+{"button":[{"type":"click","name":"我爱音乐，音乐爱我","key":"V1001_TODAY_MUSIC"},{"name":"菜单","sub_button":[{"type":"view","name":"搜索","url":"http:\/\/www.soso.com\/"},{"type":"view","name":"视频","url":"http:\/\/v.qq.com\/"},{"type":"click","name":"赞一下我们","key":"V1001_GOOD"}]}]}
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:21:17 GMT
+Content-Length: 27
+
+{"errcode":0,"errmsg":"ok"}
+--------
+NULL  
+[2018-08-21 15:21:24] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:21:21 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:23:02] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:23:00 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:23:20] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:23:18 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:23:20] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&lang=zh_CN HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:23:18 GMT
+Content-Length: 463
+
+{"subscribe":1,"openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0","nickname":"CHOSEN-ONE","sex":1,"language":"zh_CN","city":"黄山","province":"安徽","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ybibqibicYBCDVZvaUzUUibeXfjODPWu8mgibDiaoibVhpqrW2XE9ibFZhxt9gBfGBQmY2OPibYF90H7icZf39cL1bp45ibdv9ZCBib4icCHt\/132","subscribe_time":1534864590,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+--------
+NULL  
+[2018-08-21 15:23:34] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/get?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:23:32 GMT
+Content-Length: 117
+
+{"total":1,"count":1,"data":{"openid":["ownapw_I26e1Ka5JsEPDW0t5CGt0"]},"next_openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0"}
+--------
+NULL  
+[2018-08-21 15:23:34] NULL.INFO: >>>>>>>>
+GET /cgi-bin/user/info?access_token=12_TrNLySeV8KAgNqqtUzuMxrt_ZdjT2xPck8mM_cYIRezJ2bRCp7JdpPdD0gkDa2SJnXkl4jabXlJkp_cB5NAcxtg4ihMq9imMjJcub_D1e12b5umaxkj7jNBJLKYQWYhAIACIK&openid=ownapw_I26e1Ka5JsEPDW0t5CGt0&lang=zh_CN HTTP/1.1
+Host: api.weixin.qq.com
+User-Agent: GuzzleHttp/6.3.3 curl/7.56.0 PHP/7.1.12
+
+
+<<<<<<<<
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: application/json; encoding=utf-8
+Date: Tue, 21 Aug 2018 15:23:32 GMT
+Content-Length: 463
+
+{"subscribe":1,"openid":"ownapw_I26e1Ka5JsEPDW0t5CGt0","nickname":"CHOSEN-ONE","sex":1,"language":"zh_CN","city":"黄山","province":"安徽","country":"中国","headimgurl":"http:\/\/thirdwx.qlogo.cn\/mmopen\/ybibqibicYBCDVZvaUzUUibeXfjODPWu8mgibDiaoibVhpqrW2XE9ibFZhxt9gBfGBQmY2OPibYF90H7icZf39cL1bp45ibdv9ZCBib4icCHt\/132","subscribe_time":1534864590,"remark":"","groupid":0,"tagid_list":[],"subscribe_scene":"ADD_SCENE_QR_CODE","qr_scene":0,"qr_scene_str":""}
+--------
+NULL  
