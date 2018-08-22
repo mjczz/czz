@@ -287,6 +287,8 @@ class Container implements \ArrayAccess
      */
     public function register(ServiceProviderInterface $provider, array $values = array())
     {
+		 //\EasyWeChat\Kernel\Providers\ConfigServiceProvider
+		//->register(object(EasyWeChat\OfficialAccount\Application));
         $provider->register($this);
 
         foreach ($values as $key => $value) {

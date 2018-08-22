@@ -23,6 +23,7 @@ use Pimple\ServiceProviderInterface;
 class ConfigServiceProvider implements ServiceProviderInterface
 {
     /**
+	 * 在给定容器上注册服务。
      * Registers services on the given container.
      *
      * This method should only be used to configure services and parameters.
@@ -32,6 +33,7 @@ class ConfigServiceProvider implements ServiceProviderInterface
      */
     public function register(Container $pimple)
     {
+    	// $pimple = object(EasyWeChat\OfficialAccount\Application) // 公众号实例
         $pimple['config'] = function ($app) {
             return new Config($app->getConfig());
         };

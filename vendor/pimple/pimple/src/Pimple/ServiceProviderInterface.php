@@ -35,6 +35,7 @@ namespace Pimple;
 interface ServiceProviderInterface
 {
     /**
+	 * 在给定容器上注册服务。
      * Registers services on the given container.
      *
      * This method should only be used to configure services and parameters.

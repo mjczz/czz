@@ -32,9 +32,12 @@ class Factory
      */
     public static function make($name, array $config)
     {
+    	// 返回每个单词首字母大写的类名
         $namespace = Kernel\Support\Str::studly($name);
         $application = "\\EasyWeChat\\{$namespace}\\Application";
+		// $$application = \EasyWeChat\OfficialAccount\Application
 
+        // 实例化 new \EasyWeChat\OfficialAccount\Application($config)
         return new $application($config);
     }
 

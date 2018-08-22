@@ -59,10 +59,13 @@ class ServiceContainer extends Container
      */
     public function __construct(array $config = [], array $prepends = [], string $id = null)
     {
+    	// 注册服务提供者
         $this->registerProviders($this->getProviders());
 
+        // 调用父类构造 函数
         parent::__construct($prepends);
 
+        // 赋值用户配置
         $this->userConfig = $config;
 
         $this->id = $id;
@@ -93,6 +96,7 @@ class ServiceContainer extends Container
     }
 
     /**
+	 * 返回所有服务提供者
      * Return all providers.
      *
      * @return array
